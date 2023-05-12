@@ -55,6 +55,7 @@ public class Book {
 
     }
 
+    //class definitions
     String title;
     int pages;
     int published;
